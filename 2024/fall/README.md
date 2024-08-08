@@ -46,7 +46,7 @@ By the end of this course, students should be able to:
 
 We will not learn everything at once. Instead, this course is split into a few steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
-<div class="timeline" data-id="1I56IhOYqak3-9n9C5Ce12DEX9ZRdUFnZmGXZIf45lp8" data-range="CIM 443/643"></div>
+<div class="timeline" data-id="1I56IhOYqak3-9n9C5Ce12DEX9ZRdUFnZmGXZIf45lp8" data-range="JMM 106"></div>
 
 #### Presentation day
 
