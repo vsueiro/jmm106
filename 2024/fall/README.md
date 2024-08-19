@@ -34,13 +34,15 @@ This course is an introduction to the principles of design, typography, color th
 
 By the end of this course, students should be able to:
 
-- …
-- …
-- …
+- Communicate ideas visually
+- Organize textual and visual content clearly
+- Explain complex processes through infographics
+- Apply visual design principles to other fields
 
+<!--
 ### Course Topics
-
 …
+-->
 
 ### Course Timeline
 
@@ -89,23 +91,25 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-| Step         | Weight    | Assignment      | Task            | Points |
-| ------------ | --------- | --------------- | --------------- | ------ |
-| Introduction | 10 Points | Expectations    | Submission      | 5      |
-| \*           | \*        | Critique        | Submission      | 5      |
-| …            | 10 Points | Analyze         | Submission (8×) | 1.25   |
-| Project 1: … | 20 Points | Project         | Presentation    | 10     |
-| \*           | \*        | \*              | Peer Feedback   | 5      |
-| \*           | \*        | \*              | Submission      | 5      |
-| Project 2: … | 20 Points | Project         | Presentation    | 10     |
-| \*           | \*        | \*              | Peer Feedback   | 5      |
-| \*           | \*        | \*              | Submission      | 5      |
-| Project 3: … | 30 Points | Planning        | Presentation    | 5      |
-| \*           | \*        | \*              | Peer Feedback   | 5      |
-| \*           | \*        | Project         | Presentation    | 10     |
-| \*           | \*        | \*              | Peer Feedback   | 5      |
-| \*           | \*        | \*              | Submission      | 5      |
-| Final Exam   | 10 Points | Self-reflection | Submission      | 10     |
+| Step                   | Weight    | Assignment      | Task          | Points |
+| ---------------------- | --------- | --------------- | ------------- | ------ |
+| Introduction           | 10 Points | Expectations    | Submission    | 5      |
+| \*                     | \*        | Critique        | Submission    | 5      |
+| Exercises              | 10 Points | Exercise (1)    | Submission    | 5      |
+| \*                     | \*        | Exercise (2)    | Submission    | 5      |
+| Inspiration Days       | 5 Points  | Analyze         | Submission    | 5      |
+| Project 1: Cover       | 20 Points | Project         | Presentation  | 10     |
+| \*                     | \*        | \*              | Peer Feedback | 5      |
+| \*                     | \*        | \*              | Submission    | 5      |
+| Project 2: Zine        | 20 Points | Project         | Presentation  | 10     |
+| \*                     | \*        | \*              | Peer Feedback | 5      |
+| \*                     | \*        | \*              | Submission    | 5      |
+| Project 3: Infographic | 30 Points | Planning        | Presentation  | 5      |
+| \*                     | \*        | \*              | Peer Feedback | 5      |
+| \*                     | \*        | Project         | Presentation  | 10     |
+| \*                     | \*        | \*              | Peer Feedback | 5      |
+| \*                     | \*        | \*              | Submission    | 5      |
+| Final Exam             | 5 Points  | Self-reflection | Submission    | 5      |
 
 #### Missed a task?
 
